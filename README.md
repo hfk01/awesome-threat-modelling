@@ -6,6 +6,9 @@ A curated list of threat modeling resources (books, courses - free and paid, vid
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
+## Added by hfk01
+[OWASPAI Overview](https://owaspai.org/docs/ai_security_overview/#table-of-contents)
+
 ## Contents
 - [Fundamentals](#fundamentals)
 - [Books](#books)
